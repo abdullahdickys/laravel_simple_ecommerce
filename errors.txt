@@ -1,0 +1,10 @@
+errors :
+1   PDOException::("SQLSTATE[HY000] [2002] Connection refused")
+      /home/nwe/Desktop/laravel-app/laravel_e-commerce_original/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+
+2   PDO::__construct()
+      /home/nwe/Desktop/laravel-app/laravel_e-commerce_original/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+
+solution :
+mysql not running
+
